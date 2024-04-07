@@ -1,0 +1,3 @@
+class MoneyError(Exception):
+    pass
+

@@ -1,0 +1,2 @@
+class MoodError(Exception):
+    pass
